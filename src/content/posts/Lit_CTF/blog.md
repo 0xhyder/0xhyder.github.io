@@ -2,7 +2,7 @@
 title: Lit_CTF Writeups
 published: 2025-08-25
 description: Writeups for pwn challenge.
-tags: [pwn, writeups, Ret2Libc, foramt_string]
+tags: [pwn, writeups, Ret2Libc, format_string]
 category: Pwn
 draft: false
 ---
@@ -422,7 +422,7 @@ Enter username:
 Enter password:
 $  
 ```
-Like the by leaking the value from read got table (read@got), we can leak the libc address of read.
+Like by leaking the value from read got table (read@got), we can leak the libc address of read.
 So with the help of [libc.rip](https://libc.rip) , we can find the correct libc version. After giving out libc address the numb of offset trim down to two, where one libc is the next version one libc. so both both libc may work here.
 
 ![libc_find](./libc_find.png)
