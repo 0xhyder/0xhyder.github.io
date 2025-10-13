@@ -8,6 +8,6 @@ Discord   db  "0xhyder",0
 Team      db  "Nova",0
 
 .string
-Hello There If You Are Passinate About Low Level.  
-Welcome!!!
+Passionate about low-level? Welcome to the core.
+
 ```
