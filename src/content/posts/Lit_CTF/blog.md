@@ -2,7 +2,7 @@
 title: Lit_CTF Writeups
 published: 2025-08-25
 description: Writeups for pwn challenge.
-tags: [pwn, writeups, Ret2Libc, format_string]
+tags: [Pwn, Writeups, Ret2Libc, Format_String]
 category: Pwn
 draft: false
 ---

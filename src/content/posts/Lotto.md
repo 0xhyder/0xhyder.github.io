@@ -2,7 +2,7 @@
 title: Break_The_Syntax_CTF
 published: 2025-08-21
 description: A walkthrough for Lotto challenge from break_the_syntax_ctf.
-tags: [pwn, writeups]
+tags: [Pwn, Writeups]
 category: Pwn
 draft: false
 ---

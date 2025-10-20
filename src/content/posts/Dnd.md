@@ -2,7 +2,7 @@
 title: Dam_CTF
 published: 2025-08-21
 description: A walkthrough for challenge DND from Dam_CTF.
-tags: [pwn, writeups, Ret2Libc]
+tags: [Pwn, Writeups, Ret2Libc]
 category: Pwn
 draft: false
 ---
