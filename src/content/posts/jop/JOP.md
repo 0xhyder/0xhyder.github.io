@@ -1,5 +1,5 @@
 ---
-title: Jump Oriented Programming
+title: JOP Notes
 published: 2026-01-06
 description: "Notes on JOP"
 tags: ["Pwn", "Stack","Jop",]
