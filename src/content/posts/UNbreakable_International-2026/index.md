@@ -588,3 +588,7 @@ magic(slot-4,4294967296) # overwrte slot to 1 (-4 due to memory allignment)
 p.sendline(b'6')
 p.interactive()
 ```
+
+## Reference
+https://blog.kylebot.net/2021/05/08/DEFCON-2021-Quals-mooosl/ 
+https://github.com/12101111/musl-malloc/tree/rpmalloc
