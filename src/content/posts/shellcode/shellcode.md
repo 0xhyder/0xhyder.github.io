@@ -3,6 +3,7 @@ title: Shellcode Series
 published: 2025-10-20
 description: A page for various shellcode.
 tags: [Shellcode, Assembly]
+image: "./1319293.jpeg"
 category: Notes 
 draft: false
 ---

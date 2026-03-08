@@ -3,7 +3,7 @@ title: JOP Notes
 published: 2026-01-06
 description: "Notes on JOP"
 tags: ["Pwn", "Stack","Jop",]
-#image: "./rop_vs_jop.png"
+#image: "./waifu_pink.png"
 category: Notes
 draft: false
 ---
