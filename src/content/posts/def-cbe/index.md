@@ -1,6 +1,6 @@
 ---
 title: Defcon-CBE Pwn
-published: 2026-04-17
+published: 2026-04-20
 description: "Pwn Write-ups"
 tags: ["Pwn", "Heap", "FSOP", "Libc"]
 #image: "image-1.png"
